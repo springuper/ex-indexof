@@ -1,0 +1,26 @@
+{
+  "name": "ex-indexof",
+  "version": "1.0.0",
+  "description": "Extended `indexOf` for specific occurrence time",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/springuper/ex-indexof.git"
+  },
+  "keywords": [
+    "indexof",
+    "substring"
+  ],
+  "author": "springuper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/springuper/ex-indexof/issues"
+  },
+  "homepage": "https://github.com/springuper/ex-indexof#readme",
+  "devDependencies": {
+    "mocha": "^2.3.2"
+  }
+}
